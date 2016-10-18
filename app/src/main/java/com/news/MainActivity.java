@@ -26,6 +26,7 @@ import java.util.List;
 import butterknife.Bind;
 
 public class MainActivity extends BaseActivity {
+
     @Bind(R.id.view_pager)
     ViewPager mViewPager;
 

@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/szcard"
+        android:title="深圳通查询"
+        android:checked="true"
+        android:icon="@drawable/ic_credit_card_red_300_18dp"/>
+
+    <item android:id="@+id/menu_share"
+        android:title="share"
+        android:checked="true"
+        android:icon="@android:drawable/ic_menu_share"/>
+
+    <item android:id="@+id/menu_agenda"
+        android:title="agenda"
+        android:checked="true"
+        android:icon="@android:drawable/ic_menu_agenda"/>
+</menu>

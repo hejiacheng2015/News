@@ -1,0 +1,27 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="paddingSize">5dp</dimen>
+    <dimen name="size_06">6.0sp</dimen>
+    <dimen name="size_07">7.0sp</dimen>
+    <dimen name="size_08">8.0sp</dimen>
+    <dimen name="size_09">9.0sp</dimen>
+    <dimen name="size_10">10.0sp</dimen>
+    <dimen name="size_11">11.0sp</dimen>
+    <dimen name="size_12">12.0sp</dimen>
+    <dimen name="size_13">13.0sp</dimen>
+    <dimen name="size_14">14.0sp</dimen>
+    <dimen name="size_15">15.0sp</dimen>
+    <dimen name="size_16">16.0sp</dimen>
+    <dimen name="size_17">17.0sp</dimen>
+    <dimen name="size_18">18.0sp</dimen>
+    <dimen name="size_19">19.0sp</dimen>
+    <dimen name="size_20">20.0sp</dimen>
+    <dimen name="size_21">21.0sp</dimen>
+    <dimen name="size_22">22.0sp</dimen>
+    <dimen name="size_23">23.0sp</dimen>
+    <dimen name="size_24">24.0sp</dimen>
+    <dimen name="marigin_card">0dp</dimen>
+    <dimen name="marigin_card_contact">0dp</dimen>
+</resources>

@@ -15,3 +15,8 @@
 使用 ViewPager 以及 TabLayout 制作多页面滑动的效果, 通过 DrawerLayout,NavigationView 实现侧滑菜单的效果.
 
 使用 support-v4 以及 appcompat 兼容包.
+
+# 关于作者
+358878305@gmail.com
+
+此项目供学习研究之用.尚有不足之处,需要慢慢更新完善.

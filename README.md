@@ -19,7 +19,8 @@
 使用 support-v4 以及 appcompat 兼容包.
 
 # 关于作者
-358878305@gmail.com
+email:358878305@gmail.com
+
 QQ:358878305
 
 此项目供学习研究之用.尚有不足之处,需要慢慢更新完善.
